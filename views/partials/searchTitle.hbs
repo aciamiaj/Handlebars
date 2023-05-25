@@ -1,0 +1,11 @@
+<style>
+      h1, form {
+        text-align: center;
+      }
+    </style>
+<h1>Search by Title</h1>
+<form action="{{action}}" method="post" enctype="application/x-www-form-urlencoded">
+  <label for="title">{{searchType}}:</label>
+  <input type="text" id="title" name="title" placeholder="{{placeholder}}" required>
+  <button type="submit">Search</button>
+</form>

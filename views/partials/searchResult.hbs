@@ -1,0 +1,24 @@
+   <style>
+      h1, p {
+        text-align: center;
+      }   
+    </style>
+
+<h1>Search Result</h1>
+<p>Search Type: {{searchType}}</p>
+<p>Search Term: {{searchTerm}}</p>
+
+{{#if errorMessage}}
+  <p>{{errorMessage}}</p>
+{{else}}
+  {{#if searchResult}}
+    <p>Title: {{searchResult.title}}</p>
+    <p>Authors: {{searchResult.authors}}</p>
+    <p>ISBN: {{searchResult.isbn}}</p>
+  {{else}}
+    <p>No results found</p>
+  {{/if}}
+{{/if}}
+
+
+

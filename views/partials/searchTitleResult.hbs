@@ -1,0 +1,18 @@
+<style>
+      h1, p {
+        text-align: center;
+      }
+    </style>
+<h1>{{searchType}} Search Results for "{{searchTerm}}"</h1>
+{{#if errorMessage}}
+  <p>{{errorMessage}}</p>
+{{else}}
+    {{#each searchResult}}
+      <p>{{this.isbn}} - {{this.title}} by {{this.authors}}</p>
+    {{/each}}
+{{/if}}
+
+
+
+
+

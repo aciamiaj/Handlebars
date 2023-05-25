@@ -1,0 +1,15 @@
+<!-- data.hbs -->
+    <style>
+      h1, div {
+      margin: 0 auto;
+      max-width: 600px; /* adjust as needed */
+}
+    </style>
+<h1>Books Details</h1>
+{{#each data}}
+  <div>
+    <h3>{{this.title}}</h3>
+    <p><strong>ISBN:</strong> {{this.isbn}}</p>
+    <p><strong>Authors:</strong> {{this.authors}}</p>
+  </div>
+{{/each}}

@@ -1,0 +1,125 @@
+ [
+        {
+          "title": "Lucene in Action, Second Edition",
+          "isbn": "1933988177",
+          "pageCount": 532,
+          "publishedDate": { "$date": "2010-07-09T00:00:00.000-0700" },
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatcher3.jpg",
+          "shortDescription": "With clear writing, reusable examples, and unmatched advice on best practices, Lucene in Action is still the definitive guide to developing with Lucene.",
+          "longDescription": "When Lucene first hit the scene five years ago, it was nothing short of amazing. By using this open-source, highly scalable, super-fast search engine, developers could integrate search into applications quickly and efficiently. A lot has changed since then   search has grown from a \"nice-to-have\" feature into an indispensable part of most enterprise applications. Lucene now powers search in diverse companies including Akamai, Netflix, LinkedIn, Technorati, HotJobs, Epiphany, FedEx, Mayo Clinic, MIT, New Scientist Magazine, and many others.    Some things remain the same, though. Lucene still delivers high-performance search features in a disarmingly easy-to-use API. It's still a single compact JAR file (less than 1 MB!). Due to its vibrant and diverse open-source community of developers and users, Lucene is relentlessly improving, with evolutions to APIs, significant new features such as payloads, and a huge (as much as 8x) increase in indexing speed with Lucene 3.0.    And with clear writing, reusable examples, and unmatched advice on best practices, Lucene in Action is still the definitive guide to developing with Lucene.",
+          "status": "PUBLISH",
+          "authors": ["Erik Hatcher", "Otis Gospodnetic", "Michael McCandless"],
+          "categories": ["Java", "Open Source"]
+        },
+        {
+          "title": "PowerBuilder 6.0 Questions & Answers",
+          "isbn": "1884777708",
+          "pageCount": 446,
+          "publishedDate": { "$date": "1998-07-01T00:00:00.000-0700" },
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatton.jpg",
+          "shortDescription": "If you'd like to learn PowerBuilder--or enhance your skills-- this book is for you. Its hands-on approach will show you how to write real code. Each section takes a specific \"How do I \" topic and answers commonly asked questions in an easy-to-understand, conversational manner. It then shows you how the same technique can be used over and over again to decrease your overall code-writing time.",
+          "longDescription": "Demand for PowerBuilder programmers, with the potential they offer for rapid application development, continues to soar. If you'd like to learn PowerBuilder--or enhance your skills-- this book is for you. Its hands-on approach will show you how to write real code. Each section takes a specific \"How do I \" topic and answers commonly asked questions in an easy-to-understand, conversational manner. It then shows you how the same technique can be used over and over again to decrease your overall code-writing time.",
+          "status": "PUBLISH",
+          "authors": ["Tim Hatton"],
+          "categories": ["PowerBuilder"]
+        },
+        {
+          "title": "The Awesome Power of PowerJ",
+          "isbn": "1884777538",
+          "pageCount": 378,
+          "publishedDate": { "$date": "1998-05-01T00:00:00.000-0700" },
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatton2.jpg",
+          "shortDescription": "The Awesome Power of PowerJ shows you how you can write Java programs the very first day with PowerJ, even if you don't know Java. Through a hands-on approach that makes liberal use of figures and code snippets, you will learn how to use PowerJ to build effective Java applets and applications.",
+          "longDescription": "PowerJ is the bridge between the rapid application development world of PowerBuilder and the multiplatform world of Java. The Awesome Power of PowerJ shows you how you can write Java programs the very first day with PowerJ, even if you don't know Java. Through a hands-on approach that makes liberal use of figures and code snippets, you will learn how to use PowerJ to build effective Java applets and applications.",
+          "status": "PUBLISH",
+          "authors": ["Tim Hatton"],
+          "categories": ["Java"]
+        },
+        {
+          "title": "The Awesome Power of Power++",
+          "isbn": "1884777546",
+          "pageCount": 416,
+          "publishedDate": { "$date": "1998-06-01T00:00:00.000-0700" },
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hatton3.jpg",
+          "shortDescription": "The Awesome Power of Power++ is for the beginning to intermediate Power++ programmer. It assumes that you have little or no knowledge of the C++ language but that you do know programming constructs. The purpose is to teach you how to use Power++ to build C++ applets and applications even if you are not a C++ expert. To this end it takes a hands-on approach and makes liberal use of figures and code snippets.",
+          "longDescription": "The Awesome Power of Power++ is for the beginning to intermediate Power++ programmer. It assumes that you have little or no knowledge of the C++ language but that you do know programming constructs. The purpose is to teach you how to use Power++ to build C++ applets and applications even if you are not a C++ expert. To this end it takes a hands-on approach and makes liberal use of figures and code snippets.    The Awesome Power of Power++ is for:    * IS Managers who are investigating C++ and C++ environments  * Developers who are wanting to learn C++ and build C++ programs  * Any developer who has a C++ project that must be finished quickly ",
+          "status": "PUBLISH",
+          "authors": ["Tim Hatton"],
+          "categories": ["PowerBuilder"]
+        },
+        {
+          "title": "Azure in Action",
+          "isbn": "193518248X",
+          "pageCount": 425,
+          "publishedDate": { "$date": "2010-10-22T00:00:00.000-0700" },
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hay.jpg",
+          "shortDescription": "Azure in Action is a fast-paced tutorial intended for architects and developers looking to develop on Windows Azure and the Windows Azure Platform. It's designed both for readers new to cloud concepts and for those familiar with cloud development but new to Azure. After a quick walk through the basics, it guides you all the way from your first app through more advanced concepts of the Windows Azure Platform.",
+          "longDescription": "Cloud-based applications pose an intriguing value proposition for businesses. With an easily scalable, pay-as-you-go model and very small startup costs, the cloud can be a great alternative to systems hosted in-house. Developers are scrambling to understand the impact a cloud-based approach will have on current and future projects.    Azure is Microsoft's full-fledged entry into the \"Cloud Services Platform\" arena. Unlike other cloud offerings that address only one piece of the puzzle, Azure includes an operating system, a set of developer services, and a data model that can be used individually or together. It's designed to interact seamlessly with other .NET-based components, and leverages your knowledge of Visual Studio, the .NET platform, and SQL Server. It's also fully compatible with multiple internet protocols, including HTTP, REST, SOAP, and XML.    Azure in Action is a fast-paced tutorial intended for architects and developers looking to develop on Windows Azure and the Windows Azure Platform. It's designed both for readers new to cloud concepts and for those familiar with cloud development but new to Azure. After a quick walk through the basics, it guides you all the way from your first app through more advanced concepts of the Windows Azure Platform.    The book starts by looking at the logical and physical architecture of an Azure app, and then moves to the core storage services   binary store, tables and queues. Then, it explores designing and scaling frontend and backend services that run in the cloud. Next, it covers more advanced scenarios in Windows Azure. After covering the core of Azure, it introduces the rest of the Windows Azure Platform with a particular focus on SQL Azure Database.",
+          "status": "PUBLISH",
+          "authors": ["Chris Hay", "Brian H. Prince"],
+          "categories": ["Microsoft .NET"]
+        },
+        {
+          "title": "Distributed Agile in Action",
+          "isbn": "1935182412",
+          "pageCount": 325,
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hazrati.jpg",
+          "shortDescription": "Distributed Agile in Action is the first book to directly address the unique task of going Agile in a distributed team. Rather than rehashing Agile theories, this book supplies the practical examples and step by step advice you need to help your distributed teams adopt and embrace Agile principles. It's a distilled and carefully organized learning aid for working in a distributed Agile environment, with in-depth focus on how to approach three critical components of development-People, Process and Technology.",
+          "longDescription": "As organizations try to do more with less, development teams are less likely to be centrally located, tightly-managed, and permanent. Distributed organizations face special challenges when implementing Agile processes, which rely on frequent communication and responsive teams. Distributed Agile in Action is a guide to running successful Agile projects within geographically and culturally diverse organizations.    Distributed Agile in Action is the first book to directly address the unique task of going Agile in a distributed team. Rather than rehashing Agile theories, this book supplies the practical examples and step by step advice you need to help your distributed teams adopt and embrace Agile principles. It's a distilled and carefully organized learning aid for working in a distributed Agile environment, with in-depth focus on how to approach three critical components of development-People, Process and Technology.    It's jam-packed with suggestions and stories gained from the authors' distributed Agile journey working with teams spread across cultures, continents, and time zones. The book includes a complete case study presenting an increasingly-common project scenario.    This book is written for developers and project managers in distributed teams. Although the examples and case study are presented in Java / Java EE, best practices from rest of the book are technology agnostic and would work equally well for any environment.",
+          "status": "MEAP",
+          "authors": ["Vikas Hazrati", "Balaji D Loganathan"],
+          "categories": ["Software Engineering"]
+        },
+        {
+          "title": "Metaprogramming in .NET",
+          "isbn": "1617290262",
+          "pageCount": 0,
+          "publishedDate": { "$date": "2012-12-31T00:00:00.000-0800" },
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hazzard.jpg",
+          "status": "PUBLISH",
+          "authors": ["Kevin Hazzard", "Jason Bock"],
+          "categories": ["Microsoft/.NET"]
+        },
+        {
+          "title": "Portlets and Apache Portals",
+          "isbn": "1980290262",
+          "pageCount": 500,
+          "publishedDate": { "$date": "2005-10-01T00:00:00.000-0700" },
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hepper.jpg",
+          "shortDescription": "Portlets and Apache Portals was not published by Manning, but the manuscript is available for download from our website \"as is.\"",
+          "longDescription": "Due to the growing complexity of web sites, portals and portlets are experiencing serious growth. Portals help reduce complexity by allowing the dynamic aggregation and display of diverse content in a single web page. Portal components are pluggable parts called portlets. To be \"pluggable\" portlets and portals must satisfy standards. The authors of this book, all but one employees of IBM, created these standards: Java Portlet Specification JSR 168 and Web Services for Remote Portlets (WSRP).    The book starts gently with the basics of portlet technology and a functionrich portlet example. It then dives more deeply into portlets and J2EE, portlet architecture, best practices, and explores how the popular JSF web framework can ease portlet development. It shows how to set up an open source portal and create portlets that dynamically access backend data of various types. It is rich in something readers want: code examples that show them how to do it.",
+          "status": "PUBLISH",
+          "authors": [
+            "Stefan Hepper",
+            "Peter Fischer",
+            "Stephan Hesmer",
+            "Richard Jacob",
+            "David Sean Taylor"
+          ],
+          "categories": ["Java"]
+        },
+        {
+          "title": "Code Generation in Action",
+          "isbn": "1930110979",
+          "pageCount": 0,
+          "publishedDate": { "$date": "2003-07-01T00:00:00.000-0700" },
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/herrington.jpg",
+          "shortDescription": "Code Generation In Action covers building database access, user interface, remote procedure, test cases, and business logic code as well as code for other key system functions.",
+          "longDescription": "Code Generation In Action covers technique and implementation for building high-quality machine-generated code for today's complex applications frameworks. The book includes step-by-step instruction for building dozens of code generators of varying types. These generators build high-quality output that is consistent and maintainable. Code generation abstracts the design of the code so that multiple outputs can be created from a single model of the application functionality, which means development teams can focus on higher-level design work and strategic problems, while still meeting goals for maintaining production applications.. The book covers techniques that range from simple code processors that handle common coding problems to more elaborate and complex generators that maintain entire application tiers.  Code Generation In Action covers building database access, user interface, remote procedure, test cases, and business logic code as well as code for other key system functions.    Although code generation is an engineering technique it also has a large impact on the engineering team and management. The book discusses the non-technical justifications for code generation in depth, and offers practical advice for making code generation succeed in any organization.",
+          "status": "PUBLISH",
+          "authors": ["Jack Herrington"],
+          "categories": ["Programming"]
+        },
+        {
+          "title": "Illustrated Guide to HTTP",
+          "isbn": "138582262",
+          "pageCount": 400,
+          "publishedDate": { "$date": "1997-03-01T00:00:00.000-0800" },
+          "thumbnailUrl": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/hethmon.jpg",
+          "longDescription": "If you're interested in building a web server -- or if you're developing an application that depends or will depend on current HTTP protocols -- Illustrated Guide to HTTP is for you! It covers the latest HTTP/1.1 protocol standard as found in RFC 2068 and RFC 2069. Any programmer, developer or web manager involved in web-related software needs this book to keep up with this dynamic area.",
+          "status": "PUBLISH",
+          "authors": ["Paul S. Hethmon"],
+          "categories": ["Internet"]
+        }
+  ]
+    

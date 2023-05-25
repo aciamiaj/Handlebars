@@ -1,0 +1,36 @@
+<style>
+  .highlight {
+background-color: yellow;
+}
+</style>
+
+<style>
+table {
+      margin: 0 auto;
+}
+td, th {
+  text-align: left;
+}
+    </style>
+<table>
+  <thead>
+    <tr>
+      <th>ISBN</th>
+      <th>Title</th>
+      <th>Authors</th>
+      <th>Page Count</th>
+    </tr>
+  </thead>
+  <tbody>
+    {{#each books}}
+    <tr {{#if (eq pageCount 0)}}class="highlight"{{/if}}>
+      <td>{{isbn}}</td>
+      <td>{{title}}</td>
+      <td>{{authors}}</td>
+      <td>{{zeroIfNone pageCount}}</td>
+    </tr>
+    {{/each}}
+  </tbody>
+</table>
+
+
